@@ -22,7 +22,7 @@ Strona jest dostępna na każdym urządzeniu posiadającym dostęp do internetu.
 - CSS
 - JavaScript
 - Git i GitHub
-- GitHub Pages do hostowania [**Zobacz link**](https://github.com/RenataliesPl/WZ-ININ5-hyb-wszyscy.git)
+- GitHub Pages do hostowania [**Zobacz link**](https://RenataliesPl.github.io/WZ-ININ5-hyb-wszyscy)
 
 ## Jak uruchomić
 Wystarczy kliknąć w link.
