@@ -30,3 +30,6 @@ Wystarczy kliknąć w link.
 ## Zespół
 - Renata P.
 - Adam K.
+
+## Jak możesz pomóc?
+Chcesz pomóc? Super! Zobacz zasady współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
